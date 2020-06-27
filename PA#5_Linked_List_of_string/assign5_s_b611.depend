@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554929994 source:f:\tsu\cpp\cpp spring2019 asignments\pa#5\assign5_s_b611\main.cpp
+	<iostream>
+	<iomanip>
+	"StringList.h"
+
+1554834622 f:\tsu\cpp\cpp spring2019 asignments\pa#5\assign5_s_b611\include\stringlist.h
+	<string>
+
+1554927669 source:f:\tsu\cpp\cpp spring2019 asignments\pa#5\assign5_s_b611\src\stringlist.cpp
+	"StringList.h"
+	<string>
+	<iostream>
+
